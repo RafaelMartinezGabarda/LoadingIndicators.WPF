@@ -2,10 +2,12 @@
 <Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
     <TargetFrameworks>net46;net47;netcoreapp3.0</TargetFrameworks>
-    <AssemblyName>LoadingIndicators.WPF.NetCore</AssemblyName>
+    <AssemblyName>LoadingIndicators.WPF</AssemblyName>
     <Title>LoadingIndicators.WPF.NetCore</Title>
     <RootNamespace>LoadingIndicators.WPF.NetCore</RootNamespace>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+	<PackageId>LoadingIndicators.WPF.NetCore</PackageId>
+	  <PackageVersion>1.0.1.0</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>

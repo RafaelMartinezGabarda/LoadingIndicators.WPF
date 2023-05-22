@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoadingIndicators.WPF.NetCore", "LoadingIndicators.WPF\LoadingIndicators.WPF.NetCore.csproj", "{E49229CC-D702-478F-90E0-6E1A284272F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoadingIndicators.WPF", "LoadingIndicators.WPF\LoadingIndicators.WPF.csproj", "{E49229CC-D702-478F-90E0-6E1A284272F6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoadingIndicators.WPF.Demo", "LoadingIndicators.WPF.Samples\LoadingIndicators.WPF.Demo\LoadingIndicators.WPF.Demo.csproj", "{19A62938-372C-40A9-9622-A9141F4F0F45}"
 EndProject
