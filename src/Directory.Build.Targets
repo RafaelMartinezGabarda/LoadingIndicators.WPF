@@ -6,7 +6,7 @@
     <!-- AssemblyInfo -->
     <PropertyGroup>
         <Company></Company>
-        <Product>LoadingIndicators.WPF</Product>
+        <Product>LoadingIndicators.WPF.NetCore</Product>
         <Copyright>Copyright © 2013 - $([System.DateTime]::Today.ToString(yyyy)) LoadingIndicators.WPF</Copyright>
         <Description>A collection of 8 animated loading indicators for WPF.</Description>
 
